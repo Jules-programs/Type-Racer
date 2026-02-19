@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "383482562310",
+    "firebase_url": "https://typeracerapp-default-rtdb.firebaseio.com",
+    "project_id": "typeracerapp",
+    "storage_bucket": "typeracerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383482562310:android:2bc681907ecadef91b8087",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDApPlxdVlMrWtv06hN7xWSgslHHk2MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
